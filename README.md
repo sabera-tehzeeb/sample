@@ -34,7 +34,7 @@ It is my second static website.
 ## Section 2
 
 
-### index.html
+### Code in index.html
 
 ```HTML
 <!DOCTYPE html>
@@ -63,7 +63,7 @@ It is my second static website.
 </html>
 ```
 
-### styles.css
+### Code in styles.css
 
 ```CSS
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
@@ -104,7 +104,7 @@ i {
 }
 ```
 
-### script.js
+### Code in script.js
 
 ```JavaScript
 
