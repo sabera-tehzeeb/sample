@@ -4,29 +4,29 @@ It is my second static website.
 
 ## Section 1
 
-### Step-1: Create a Repository namely Sample
+#### Step-1: Create a Repository namely Sample.
 
-### Step-2: Add Description
+#### Step-2: Add Description.
 
-### Step-3: Select the **Public** radio button
+#### Step-3: Select the **Public** radio button.
 
-### Step-4: Select the checkbox **"Add a README file"**
+#### Step-4: Select the checkbox **"Add a README file"**.
 
-### Step-5: In gitignore dropdown select **"VisualStudio"**
+#### Step-5: In gitignore dropdown select **"VisualStudio"**.
 
-### Step-6: In License Option, Choose **"MIT Liscense"**
+#### Step-6: In License Option, Choose **"MIT Liscense"**.
 
-### Step-7: then click on **"Create Repository"** button
+#### Step-7: Then click on **"Create Repository"** button.
 
 ![Step 1 Image](documentation/images/S1.png)
 
-### Step-8: Cloning the Repository into github Desktop
+#### Step-8: Cloning the Repository into github Desktop.
 
 ![Step 2 Image](documentation/images/S3.png)
 
 ![Step 2 Image](documentation/images/S2.png)
 
-### Step-9: Opening in Visual Studio Code Editor
+#### Step-9: Opening in Visual Studio Code Editor.
 
 #### Creating two folders namely
 >
