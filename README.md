@@ -8,15 +8,15 @@ It is my second static website.
 
 #### Step-2: Add Description.
 
-#### Step-3: Select the **Public** radio button.
+#### Step-3: Select the __Public__ radio button.
 
-#### Step-4: Select the checkbox **"Add a README file"**.
+#### Step-4: Select the checkbox __"Add a README file"__.
 
-#### Step-5: In gitignore dropdown select **"VisualStudio"**.
+#### Step-5: In gitignore dropdown select __"VisualStudio"__.
 
-#### Step-6: In License Option, Choose **"MIT Liscense"**.
+#### Step-6: In License Option, Choose __"MIT Liscense"__.
 
-#### Step-7: Then click on **"Create Repository"** button.
+#### Step-7: Then click on __"Create Repository"__ button.
 
 ![Step 1 Image](documentation/images/S1.png)
 
@@ -35,7 +35,7 @@ It is my second static website.
 >
 #### 1.  Documentaion Folder will contain **Images** Folder
 
-#### 2. Source Folder will contain files namely
+#### 2. Source Folder will contain files namely:
 
  **a.** `index.html`
 
